@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/Mateusz-gru/Zadanie-nauka-gita#readme",
   "devDependencies": {
-    "browser-sync": "^2.26.12"
+    "browser-sync": "^2.27.10"
   }
 }
